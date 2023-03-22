@@ -1,0 +1,13 @@
+{
+  "name": "stream-fundamentals-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stream": "node streams/fundamentals.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
