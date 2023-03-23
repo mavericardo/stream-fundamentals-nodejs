@@ -5,7 +5,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "stream": "node streams/fundamentals.js"
+    "stream": "node streams/fundamentals.js",
+    "dev": "node --watch src/server.js"
   },
   "keywords": [],
   "author": "",
